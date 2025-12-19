@@ -55,8 +55,4 @@ Durante o curso, serão explorados os principais recursos do Pandas, incluindo:
 
 ---
 
-## ▶️ Como Utilizar Este Repositório
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
